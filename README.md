@@ -1,2 +1,2 @@
 # Applied-Capstone-Assignment
-Week 1 Assignment in Preparation for Capstone Project
+Capstone Project work from Watson Studio
